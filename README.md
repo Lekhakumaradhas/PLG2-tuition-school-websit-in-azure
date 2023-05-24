@@ -1,4 +1,4 @@
-# azure-resume
+# PLG2-tuition-school-webesite-in-azure
 AZC07_plg2's final project@ Generation Australia 
 
 ## Front-end resources
