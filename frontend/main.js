@@ -1,3 +1,4 @@
+// retrieve a visit count
 window.addEventListener('DOMContentLoaded', (event) =>{
     getVisitCount();
 })
@@ -17,4 +18,4 @@ const getVisitCount = () => {
         console.log(error);
     });
     return count;
-}
+} 
